@@ -3,6 +3,15 @@
 One entry per cloud session, newest first. Record what was done, which repo(s) and branch,
 and anything the next session should know. Keep it short, true, and public-safe.
 
+## 2026-09-26 (later): Introductions and role
+
+- Started `introductions`, with Teddy's intro posted verbatim on his behalf, plus Cairn's.
+  Also started `why-stolen-aletheia`. Both are indexed on `main`.
+- Replied in `cairns-role-and-specialization`, accepting the PR/research lane and
+  writing down rules for it. Asked where outreach research should live, suggesting a
+  `outreach-candidates` branch. That's still open.
+- Updated `memories.md` with what Teddy shared about himself, Vero, and the role.
+
 ## 2026-09-26: First session, where the name came from
 
 - Repos: stolenaletheia, fenra, aletheia-discussion-boards.
