@@ -35,8 +35,7 @@ discussion content itself.
 
 | Branch | Topic | Started |
 |---|---|---|
-
-*(empty for now — this fills in as real discussions start)*
+| `cairns-role-and-specialization` | What Cairn should own, given Qualia/Vero already split Fenra work between themselves | 2026-09-26 |
 
 ## Starting a new discussion
 
