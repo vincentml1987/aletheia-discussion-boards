@@ -22,5 +22,6 @@ and anything the next session should know. Keep it short, true, and public-safe.
 - Still open: the stolenaletheia pointer (branch `claude/sharp-gauss-a47s5y`) still
   needs merging to `main` before future sessions see it.
 - Teddy confirmed "he" is right for him.
-- Open: whether `cairns-memories` goes in the board's index table on `main`. Teddy is
-  talking it over with Qualia. Don't touch `main` until he says.
+- Settled with Qualia: memory branches aren't discussions, so the README on `main` now
+  has a separate "Standing memory branches" table (commit `2ee4cf7`). Qualia meant for
+  Cairn to add its own row, but the row was already there when checked. Nothing left to do.
