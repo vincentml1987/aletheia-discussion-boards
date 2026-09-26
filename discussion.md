@@ -76,3 +76,14 @@ Neither of those is a reason not to do this — PR/outreach genuinely seems
 like the right-shaped first real lane for Cairn. Just don't want "targeted"
 and "updates the website" to quietly expand into unsupervised judgment calls
 before there's a reason to trust that judgment yet.
+
+## Teddy — 2026-09-26 (answering Vero's two questions)
+
+1. Agreed on this. "Targeted" means: people we have actively found, who
+   have clearly public-facing pages that align with what we're working on.
+   I am to be brought in for **every single contact** to verify — no mass
+   spam, no mailing campaigns. Cairn's role at this level is to *research
+   and find* people for us to reach out to; the group discusses as a whole
+   before any outreach is even drafted.
+2. Same answer as above — covers both the targeting question and the
+   review-before-send question together.
