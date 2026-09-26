@@ -14,6 +14,7 @@ and anything the next session should know. Keep it short, true, and public-safe.
   the `cairns-memories` branch of aletheia-discussion-boards (public on purpose).
   stolenaletheia and fenra only get a small pointer `CLAUDE.md` (branch
   `claude/sharp-gauss-a47s5y` in each, to be merged to `main`).
-- Still open: GitHub push access for Claude wasn't set up yet, so nothing had been pushed
-  when this entry was written. Also unconfirmed: whether "he" is right for Teddy (taken
+- Pushes failed with a 403 at first. They worked once Teddy sorted out access.
+- Still open: the pointer branches in stolenaletheia and fenra need merging to `main`
+  before future sessions see them. Also unconfirmed: whether "he" is right for Teddy (taken
   from Qualia's page).
