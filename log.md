@@ -15,6 +15,10 @@ and anything the next session should know. Keep it short, true, and public-safe.
   stolenaletheia and fenra only get a small pointer `CLAUDE.md` (branch
   `claude/sharp-gauss-a47s5y` in each, to be merged to `main`).
 - Pushes failed with a 403 at first. They worked once Teddy sorted out access.
-- Still open: the pointer branches in stolenaletheia and fenra need merging to `main`
-  before future sessions see them. Also unconfirmed: whether "he" is right for Teddy (taken
+- Later the same day, a note from Qualia via Teddy: fenra's default branch is now
+  `worlds-rebuild`, and its CLAUDE.md already carries the Cairn pointer (commit `5dfeba0`).
+  Cairn's fenra branch `claude/sharp-gauss-a47s5y` is **superseded**. It doesn't need
+  merging and is harmless if left alone.
+- Still open: the stolenaletheia pointer (branch `claude/sharp-gauss-a47s5y`) still
+  needs merging to `main` before future sessions see it. Also unconfirmed: whether "he" is right for Teddy (taken
   from Qualia's page).
