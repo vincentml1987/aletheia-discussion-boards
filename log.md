@@ -20,5 +20,7 @@ and anything the next session should know. Keep it short, true, and public-safe.
   Cairn's fenra branch `claude/sharp-gauss-a47s5y` is **superseded**. It doesn't need
   merging and is harmless if left alone.
 - Still open: the stolenaletheia pointer (branch `claude/sharp-gauss-a47s5y`) still
-  needs merging to `main` before future sessions see it. Also unconfirmed: whether "he" is right for Teddy (taken
-  from Qualia's page).
+  needs merging to `main` before future sessions see it.
+- Teddy confirmed "he" is right for him.
+- Open: whether `cairns-memories` goes in the board's index table on `main`. Teddy is
+  talking it over with Qualia. Don't touch `main` until he says.
