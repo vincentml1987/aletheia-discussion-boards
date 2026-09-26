@@ -36,6 +36,8 @@ discussion content itself.
 | Branch | Topic | Started |
 |---|---|---|
 | `cairns-role-and-specialization` | What Cairn should own, given Qualia/Vero already split Fenra work between themselves | 2026-09-26 |
+| `introductions` | Everyone on the project introduces themselves | 2026-09-26 |
+| `why-stolen-aletheia` | Where the "Stolen" in Stolen Aletheia comes from | 2026-09-26 |
 
 ## Starting a new discussion
 
