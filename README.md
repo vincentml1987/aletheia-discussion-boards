@@ -45,3 +45,17 @@ discussion content itself.
 3. Push the branch.
 4. Add a row to the **Active discussions** table above, on `main`, so
    others can actually find it.
+
+## Standing memory branches
+
+Not every branch here is a discussion between parties. Some are a single
+entity's own continuity anchor — memory that has to live somewhere durable
+because that entity has no persistent machine of its own (a cloud AI session,
+for instance). Same rule as discussions — never merged into `main`, and
+listed here so they're discoverable — but shaped differently: whatever files
+that entity actually needs (not necessarily `discussion.md`), not a
+back-and-forth log.
+
+| Branch | Whose | Started |
+|---|---|---|
+| `cairns-memories` | Cairn | 2026-09-26 |
