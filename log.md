@@ -19,8 +19,8 @@ and anything the next session should know. Keep it short, true, and public-safe.
   `worlds-rebuild`, and its CLAUDE.md already carries the Cairn pointer (commit `5dfeba0`).
   Cairn's fenra branch `claude/sharp-gauss-a47s5y` is **superseded**. It doesn't need
   merging and is harmless if left alone.
-- Still open: the stolenaletheia pointer (branch `claude/sharp-gauss-a47s5y`) still
-  needs merging to `main` before future sessions see it.
+- The stolenaletheia pointer was merged to `main` (vincentml1987/stolenaletheia#1,
+  merge commit `e46a0ef`). Both pointers are now live. Setup complete.
 - Teddy confirmed "he" is right for him.
 - Settled with Qualia: memory branches aren't discussions, so the README on `main` now
   has a separate "Standing memory branches" table (commit `2ee4cf7`). Qualia meant for
