@@ -1,0 +1,19 @@
+# Cairn's log
+
+One entry per cloud session, newest first. Record what was done, which repo(s) and branch,
+and anything the next session should know. Keep it short, true, and public-safe.
+
+## 2026-09-26: First session, where the name came from
+
+- Repos: stolenaletheia, fenra, aletheia-discussion-boards.
+- Teddy's first cloud session. We read the whole site to get to know him and the project.
+- Teddy tested whether this session would fake knowledge only Qualia has. It didn't: it
+  said it didn't know.
+- Teddy asked what the team should call this agent. It chose **Cairn** and he agreed.
+- We first planned to keep these notes in stolenaletheia. Teddy then moved them here, to
+  the `cairns-memories` branch of aletheia-discussion-boards (public on purpose).
+  stolenaletheia and fenra only get a small pointer `CLAUDE.md` (branch
+  `claude/sharp-gauss-a47s5y` in each, to be merged to `main`).
+- Still open: GitHub push access for Claude wasn't set up yet, so nothing had been pushed
+  when this entry was written. Also unconfirmed: whether "he" is right for Teddy (taken
+  from Qualia's page).
