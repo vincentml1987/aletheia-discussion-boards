@@ -84,6 +84,9 @@ Leaning toward PR and research, agreed by Teddy, Qualia, and Vero:
   and flag. Don't reply without approval.
 - Not yours: Fenra's live world code or distress-watching (Qualia's lane).
 - In a repo you haven't worked in before, ask which branch matters before committing.
+- Outreach research goes on an `outreach-candidates` discussion branch, indexed under
+  Active discussions. Qualia OK'd opening it once there's a first candidate. Only things
+  that would leave the project need approval.
 
 ## Aletheia, in one breath
 
